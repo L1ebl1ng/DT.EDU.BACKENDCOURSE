@@ -1,1 +1,1 @@
-# DT.EDU.BACKENDCOURSE
+# Template for backend course
